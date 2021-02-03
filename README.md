@@ -8,6 +8,7 @@ SVNKit (JavaSVN) 是一个纯 Java 的 SVN 客户端库。通过以Jar包形式�
 SVNKIT官网：https://svnkit.com/
 
 # 引入
+```text
   在该项目中用到的依赖   
     <dependency>   
       <groupId>org.tmatesoft.svnkit</groupId>   
@@ -27,3 +28,4 @@ SVNKIT官网：https://svnkit.com/
       <version>4.10</version>   
       <scope>test</scope>   
     </dependency>   
+```
